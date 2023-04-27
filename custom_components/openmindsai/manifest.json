@@ -1,0 +1,9 @@
+{
+    "domain": "openmindsai",
+    "name": "OpenMindsAI",
+    "documentation": "https://github.com/Hassassistant/OpenMindsAI",
+    "dependencies": [],
+    "codeowners": ["@hassassistant"],
+    "extra_quality_scale": "platinum",
+    "version": "0.1.0"
+}
