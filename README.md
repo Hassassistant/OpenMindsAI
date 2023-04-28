@@ -28,7 +28,7 @@ PREDICT response
 USING
 engine  =  'openai',
 max_tokens =  6000,
-model_name =  'gpt4',
+model_name =  'gpt-4',
 prompt_template =  '{{text}}';
 ```
 When you're happy, click **Run** to execute the query.
