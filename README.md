@@ -72,7 +72,7 @@ sensor:
 ## Optional. Defaults to gpt_prompt. This is your input_text name
     session_cookie: ".eJw9i8sKgCAUBf_lrl2UlUY_..."  
 ## Required. This is your MindsDB Session Cookie
-    model: "gpt4" 
+    model: "gpt4hassio" 
 ## Required. This is your MindsDB Model Name
 ```
 
