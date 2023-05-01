@@ -11,6 +11,8 @@
 
 This custom component for Home Assistant allows you to generate text responses using OpenAI via MindsDB at no expense.
 
+https://www.youtube.com/watch?v=T29k4qsXKPk&ab_channel=HassAssistant
+
 ## Creating the AI model in MindsDB
 
 **1.** You will need to create a free account on MindsDB. **[HERE](https://cloud.mindsdb.com/register)**
